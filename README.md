@@ -1,6 +1,6 @@
-# Lab-Code-Quality                                                                           [!NOTE] Assignment
-Bailey McKay                                                                                 [!NOTE] Student Name
-https://github.com/visalus90/Lab-Code-Quality.git                                            [!NOTE] Link to Bailey McKay's GitHub Repository
+# Lab-Code-Quality                                                                           [!NOTE] Assignment  <br>
+Bailey McKay                                                                                 [!NOTE] Student Name  <br>
+https://github.com/visalus90/Lab-Code-Quality.git                                            [!NOTE] Link to Bailey McKay's GitHub Repository  <br>
 1. https://www.indeed.com/career-advice/career-development/what-is-code-quality              [!NOTE] "Quality" Code: Links
 2. https://www.parasoft.com/solutions/code-quality/
 3. https://www.linkedin.com/advice/1/how-do-you-ensure-your-code-quality-functional
