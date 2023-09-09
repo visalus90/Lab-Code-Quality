@@ -1,12 +1,11 @@
-# Lab-Code-Quality
-Lab: Code Quality                                                                            // Assignment
-Bailey McKay                                                                                 // Student Name
-https://github.com/visalus90/Lab-Code-Quality.git                                            // Link to Bailey McKay's GitHub Repository
-https://www.indeed.com/career-advice/career-development/what-is-code-quality                 // "Quality" Code: Links
-https://www.parasoft.com/solutions/code-quality/
-https://www.linkedin.com/advice/1/how-do-you-ensure-your-code-quality-functional
-https://medium.com/@teal33t/clean-code-in-php-best-practices-and-principles-8ccf2f1673a7     // specific to PHP 
-Indeed.com                                                                                   // Summarize each of the articles
+# Lab-Code-Quality                                                                           [!NOTE] Assignment
+Bailey McKay                                                                                 [!NOTE] Student Name
+https://github.com/visalus90/Lab-Code-Quality.git                                            [!NOTE] Link to Bailey McKay's GitHub Repository
+1. https://www.indeed.com/career-advice/career-development/what-is-code-quality              [!NOTE] "Quality" Code: Links
+2. https://www.parasoft.com/solutions/code-quality/
+3. https://www.linkedin.com/advice/1/how-do-you-ensure-your-code-quality-functional
+4. https://medium.com/@teal33t/clean-code-in-php-best-practices-and-principles-8ccf2f1673a7  [!NOTE0 Specific to PHP 
+1. Indeed.com                                                                                [!NOTE] Summarize each of the articles
 -Opening 
     - Identifying who uses quality code
     - What the users use quality code for
