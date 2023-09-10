@@ -16,7 +16,7 @@ Repository Link: https://github.com/visalus90/Lab-Code-Quality.git  <br>
     - The high and low values of code
     - What is considered high quality
     - Lists of common parameters of high-quality code
-- Talks about "Why is code quality important?",
+- Why is code quality important?
     - Enhancing the user experience
     - Issues associated with low-quality code
     - Benefits that high-quality code provides
@@ -29,17 +29,31 @@ Repository Link: https://github.com/visalus90/Lab-Code-Quality.git  <br>
 2. Parasoft.com
 - What Is Code Quality?
     - Quality code is "subjective and open to argument"
-    - Gives example between not very important code vs. very important code
-        - Points out that both should be free of errors
-            - Error-free is critically important
-    - Other properties that contribute to quality code
-        -Gives examples of properties that play a role in quality code
+    - Not very important code vs. very important code, both have to be free of errors and are important
+    - Other properties that contribute to quality code include maintainability, clarity, testability, portability, and more
 - Benefits of Code Quality
-    - Technical and Cultural to long-lasting quality code
-        - Impact it has on the success and longevity
-        - Analysis of your code for future projects
+    - Technical and Cultural both play a role in long-lasting quality code
+        - This contributes to the success and longevity of code being used in future projects
     -  Product Confidence & Reputation
-        - Quality code performs to exceed customer expectations
-        - Invokes trust and is not worth the risk of going elsewhere
+        - Quality code performs to exceed customer expectations, invoking trust and stopping individuals from going elsewhere
     - Promotes Reuse
-        
+        - If code portability was written in mind, it could cut future costs including Development and testing
+    - Diminishes Technical Debt
+        - Quality code reduces future costs that accrue from rework 
+        - If quality code is left out more money would be used during the software development lifecycle
+        - The highest technical debt usually happens once a is released. Balancing quality code and release time is important
+    - Increases Product Longevity
+        - Good code well designed and executed allows for quick enhancements, allowing for new capabilities and features
+        - Opportunities for more revenue gains
+        - Code quality contributes to maintainability and labor costs
+- Code Quality Best Practices
+    - Code/Peer Reviews
+        - Collaborating with peers' has been shown to improve code quality
+    - Code Robustness
+        - Quality code can handle good and bad times. To help, negative testing helps promote creativity and prevent incomplete data
+    - Use or Write Code That's Safe
+        - For important applications apply coding standards to identify unsafe code to prevent bad outcomes
+    - Use or Write Code That's Secure
+        - For applications that need to be secure, apply coding standards that show vulnerabilities to protect against attack
+    - 
+                 
