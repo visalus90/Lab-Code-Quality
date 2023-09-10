@@ -83,3 +83,9 @@ Repository Link: https://github.com/visalus90/Lab-Code-Quality.git  <br>
     - Tools used to find and fix errors, and test functionality, behavior, and output
 - Refactor your code
     - Helps improve your code building blocks, look, and readability without changing its function
+4. medium.com
+- Clean Code in PHP: Best Practices and Principles
+    - Quality code is the foundation of development. Understanding quality code makes your code easier to read, understand, and maintain.
+        - PHP developers should write clean code to limit debt, foster collaboration, and improve quality
+- Principle 1: Code should be easy to read
+    - Code is often read more than written. 
