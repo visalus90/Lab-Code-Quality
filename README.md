@@ -60,6 +60,26 @@ Repository Link: https://github.com/visalus90/Lab-Code-Quality.git  <br>
     - Code Complexity
         - Complicated and complex code leads to bugs and can affect other code functions, which affects readability, reliability, and maintenance
     - Code Portability
-        - Writing code with portability in mind makes it easier to use other platforms and operating systems. This can save both time and cost.
+        - Writing code with portability in mind makes it easier to use other platforms and operating systems. This can save both time and cost
     - Code Reusability
-        - Well-written code is easier to reuse in the future with products or projects. This helps with workflow, labor, and testing costs.
+        - Well-written code is easier to reuse in the future with products or projects. This helps with workflow, labor, and testing costs
+3. Linkedin.com
+- How do you ensure your code is quality and functional?
+    - Writing code isn't enough to have a successful product
+        - Code quality should be functional. It should meet the requirements and standards
+- Use a style guide
+    - Set of rules and protocols define how code should look and function
+        - This usually covers aspects such as formatting, comments, records, and more. Using style guides helps keep things organized, easily read, and understood by others
+- Write tests
+    - Tests make sure your code is functional and meets requirements
+        - It helps find and fix errors, restructure code without breaking it, and improves code quality
+- Use code analysis tools
+    - Used to help find bugs, security issues, and duplications
+        - This will improve code quality by providing feedback, suggestions, and performance improvements. It can also force the use of style guides in your code
+- Do code reviews
+    - Review your code by yourself or someone else, before merging your code.
+        - Doing this improves code quality and finds errors, bugs, improvements, and more. Doing this allows for a change in knowledge and improves collaboration
+- Use debugging tools
+    - Tools used to find and fix errors, and test functionality, behavior, and output
+- Refactor your code
+    - Helps improve your code building blocks, look, and readability without changing its function
