@@ -55,5 +55,11 @@ Repository Link: https://github.com/visalus90/Lab-Code-Quality.git  <br>
         - For important applications apply coding standards to identify unsafe code to prevent bad outcomes
     - Use or Write Code That's Secure
         - For applications that need to be secure, apply coding standards that show vulnerabilities to protect against attack
-    - 
-                 
+    - Code Clarity
+        - Writer code is a way that can be read and understood. Complicated code is unproductive and makes it hard to find bugs, costly, and effects maintenance
+    - Code Complexity
+        - Complicated and complex code leads to bugs and can affect other code functions, which affects readability, reliability, and maintenance
+    - Code Portability
+        - Writing code with portability in mind makes it easier to use other platforms and operating systems. This can save both time and cost.
+    - Code Reusability
+        - Well-written code is easier to reuse in the future with products or projects. This helps with workflow, labor, and testing costs.
