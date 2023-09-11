@@ -77,7 +77,7 @@ Repository Link: https://github.com/visalus90/Lab-Code-Quality.git  <br>
     - Used to help find bugs, security issues, and duplications
         - This will improve code quality by providing feedback, suggestions, and performance improvements. It can also force the use of style guides in your code
 - Do code reviews
-    - Review your code by yourself or someone else, before merging your code.
+    - Review your code by yourself or someone else, before merging your code
         - Doing this improves code quality and finds errors, bugs, improvements, and more. Doing this allows for a change in knowledge and improves collaboration
 - Use debugging tools
     - Tools used to find and fix errors, and test functionality, behavior, and output
@@ -88,4 +88,23 @@ Repository Link: https://github.com/visalus90/Lab-Code-Quality.git  <br>
     - Quality code is the foundation of development. Understanding quality code makes your code easier to read, understand, and maintain.
         - PHP developers should write clean code to limit debt, foster collaboration, and improve quality
 - Principle 1: Code should be easy to read
-    - Code is often read more than written. 
+    - Code is often read more than written. Simple code makes it easier to read and reduces errors
+- Principle 2: Code should be DRY
+    - Dry stands for "Don’t Repeat Yourself"
+        - If code is being reused, refactor the code into a reusable function or class. This will reduce errors and make code easier to maintain
+- Principle 3: Code should be modular
+    - Clean code should be broken down into modular form
+        - Modular form code has a single use and acts alone. Modular code is easier to read, test, and maintain
+- Principle 4: Code should be efficient
+    - Code shouldn't be all about speed and performance
+        - Understanding PHP code understanding the cost, unneeded calculations, and the right data. Don't optimize till proven
+- Principle 5: Code should be robust and handle errors gracefully
+    - Good code that can handle the unexpected without crashing, involves checking inputs, exceptions properly, and useful error messages
+- Principle 6: Code should be testable
+    - Code should be designed to be easily tested. This means having clear inputs and outputs, avoiding hidden dependencies, and doing one thing well
+- Principle 7: Code should follow a coding standard
+    - Code should follow standards and style guides. Consistent and easy-to-read code helps prevent errors
+        - PHP usually follows PSR-2 standards following indentation, spacing, and naming conventions
+- Principle 8: Code should be well-documented
+    - Comments and documentation are just as important as good coding.
+        - Should explain why and not what was done. PHPDoc program can be used to provide documentation 
