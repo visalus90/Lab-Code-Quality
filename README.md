@@ -120,3 +120,6 @@ Repository Link: https://github.com/visalus90/Lab-Code-Quality.git  <br>
 3. Linkedin.com
     - Link 3 explains quality code but follows up each part with user comments
     - It pointed out they are tools you can use to help with the process of achieving quality code, such as Use debugging tools
+4. medium.com
+    - Link 4 was my favorite article. It kept it simple but also provided a visual component to explain the differences between good and bad
+    - I liked the fact that it said "Don’t Repeat Yourself". Individuals are creatures of habit and tech to follow patterns
