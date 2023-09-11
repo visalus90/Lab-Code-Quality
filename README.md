@@ -104,4 +104,7 @@ Repository Link: https://github.com/visalus90/Lab-Code-Quality.git  <br>
     - Code should be designed to be easily tested. This means having clear inputs and outputs, avoiding hidden dependencies, and doing one thing well
 - Principle 7: Code should follow a coding standard
     - Code should follow standards and style guides. Consistent and easy-to-read code helps prevent errors
-        - PHP standards usually follow PSR-2 
+        - PHP usually follows PSR-2 standards following indentation, spacing, and naming conventions
+- Principle 8: Code should be well-documented
+    - Comments and documentation are just as important as good coding.
+        - Should explain why and not what was done. PHPDoc program can be used to provide documentation 
