@@ -113,5 +113,7 @@ Repository Link: https://github.com/visalus90/Lab-Code-Quality.git  <br>
     - Link 1 was short compared to the other articles
     - It kept things simple, focusing on the main points of quality code.
     - The best part of the article it also talked about Enhancing the user experience
-
- 
+2. Parasoft.com
+    - Link 2 felt like it was trying to sell me their product more than explaining the quality code
+    - The best part of the article for me pointed out that even though they're standard to quality code like all things it is "subjective and open to argument"
+        - Meaning there is room for growth and improvement
