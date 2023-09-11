@@ -123,3 +123,7 @@ Repository Link: https://github.com/visalus90/Lab-Code-Quality.git  <br>
 4. medium.com
     - Link 4 was my favorite article. It kept it simple but also provided a visual component to explain the differences between good and bad
     - I liked the fact that it said "Don’t Repeat Yourself". Individuals are creatures of habit and tech to follow patterns
+### Evaluate your work
+- I would give myself 2 points
+    - How did I do?
+        - I had trouble understanding this assignment. I have a learning disability which makes it hard for me to read and understand. Visual learning is how I exceed. Saying that I should have utilized other resources including Slack and email to ask questions. I gave myself a 2 because I was able to find articles and relay information from the articles but lack the understanding of the assignment and what was meant by checklist
