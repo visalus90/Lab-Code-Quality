@@ -117,3 +117,6 @@ Repository Link: https://github.com/visalus90/Lab-Code-Quality.git  <br>
     - Link 2 felt like it was trying to sell me their product more than explaining the quality code
     - The best part of the article for me pointed out that even though they're standard to quality code like all things it is "subjective and open to argument"
         - Meaning there is room for growth and improvement
+3. Linkedin.com
+    - Link 3 explains quality code but follows up each part with user comments
+    - It pointed out they are tools you can use to help with the process of achieving quality code, such as Use debugging tools
