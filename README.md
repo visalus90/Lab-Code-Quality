@@ -108,3 +108,10 @@ Repository Link: https://github.com/visalus90/Lab-Code-Quality.git  <br>
 - Principle 8: Code should be well-documented
     - Comments and documentation are just as important as good coding.
         - Should explain why and not what was done. PHPDoc program can be used to provide documentation 
+### Compare checklists across the articles
+1. Indeed.com
+    - Link 1 was short compared to the other articles
+    - It kept things simple, focusing on the main points of quality code.
+    - The best part of the article it also talked about Enhancing the user experience
+
+ 
